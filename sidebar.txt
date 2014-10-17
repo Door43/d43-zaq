@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zaq:home|Door43 (zaq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zaq|d43-zaq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zaq/archive/master.zip|d43-zaq.zip]]
+
+**Recent Changes**
+{{changes>ns = zaq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zaq|Ethnologue data]]
+
